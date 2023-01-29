@@ -10,17 +10,15 @@ The supplementary materials for `"An Evolutionary Multitasking Algorithm with Mu
 
 **PSO-EMT**: Code for reproduction based on [2]
 
-**COS-FS**:CSO-FS employs a traditional CSO search strategy [22] for handling FS problems.[3]
+**COS-FS**:CSO-FS employs a traditional CSO search strategy for handling FS problems[3]
 
 **MOEAD-FS**：MOEA/D-FS uses a binary crossover variation in the framework of MOEA/D [4]
 
 **dataset**: Datasets used in this paper
 
-The source code for **PS-NSGA**[5] and **SM-MOEA**[6] can be viewed at the following URL provided by the author:
-
-(1) https://github.com/primekangkang/Genedata
-
-(2) https://github.com/BIMK/SM-MOEA
+Please note that the source codes of other two compared methods, i.e., PS-NSGA [5] and SM-MOEA [6] are available at the following URLs provided by the authors.
+(1) **PS-NSGA **[5]:https://github.com/primekangkang/Genedata
+(2) **SM-MOEA** [6]: https://github.com/BIMK/SM-MOEA
 
 ---
 
