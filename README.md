@@ -18,8 +18,9 @@ The supplementary materials for `"An Evolutionary Multitasking Algorithm with Mu
 
 Please note that the source codes of other two compared methods, i.e., PS-NSGA [5] and SM-MOEA [6] are available at the following URLs provided by the authors.
 
-(1) **PS-NSGA **[5]:https://github.com/primekangkang/Genedata
-(2) **SM-MOEA** [6]: https://github.com/BIMK/SM-MOEA
+(1) **PS-NSGA**:https://github.com/primekangkang/Genedata
+
+(2) **SM-MOEA** : https://github.com/BIMK/SM-MOEA
 
 ---
 
