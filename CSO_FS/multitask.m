@@ -194,7 +194,7 @@ F1_num=size(pop,1);
          best_member=F1_new(aa);
      end
      if F1_new(aa).cost<best_member.cost
-         best_nember=F1_new(aa);
+         best_member=F1_new(aa);
      end
  end
 end
